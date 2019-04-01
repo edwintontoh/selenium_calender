@@ -57,6 +57,7 @@ public class Calender {
                     if(te.getText().contains("23"))
                     {
                         System.out.println("yes");
+                        System.out.println("testing");
                     }
                 }
 
