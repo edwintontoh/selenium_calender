@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name = "gtiframework">
+
+        <test name="Functional_Test_1">
+            <parameter name="browser" value="chrome" />
+            <classes>
+                <class name="com.gtiframework.testCases.TC_LoginText_001"/>
+            </classes>
+        </test>
+
+
+
+</suite>
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Sprint1]">
+  <test thread-count="5" name="GTTest(failed)">
+    <classes>
+      <class name="com.gtiframework.testCases.learn">
+        <methods>
+          <include name="setUp"/>
+          <include name="after"/>
+          <include name="test"/>
+        </methods>
+      </class> <!-- com.gtiframework.testCases.learn -->
+    </classes>
+  </test> <!-- GTTest(failed) -->
+</suite> <!-- Failed suite [Sprint1] -->

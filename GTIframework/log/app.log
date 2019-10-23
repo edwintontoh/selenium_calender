@@ -1,0 +1,4 @@
+2019-Aug-24 19:35:39 PM [main] INFO  testCases.TC_LoginText_001 - new log
+2019-Aug-24 19:35:40 PM [main] INFO  testCases.TC_LoginText_001 - Enter email
+2019-Aug-24 19:35:41 PM [main] INFO  testCases.TC_LoginText_001 - Enter password
+2019-Aug-24 19:35:46 PM [main] INFO  testCases.TC_LoginText_001 - login test pass
